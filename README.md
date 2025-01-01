@@ -1,4 +1,4 @@
-# README for Electronics Store Flutter Frontend Project
+#  Electronics Store Flutter Frontend Project
 
 ## Project Overview
 This project represents the frontend for an electronics store app built using Flutter. The app provides users with seamless shopping experiences, including product browsing, cart management, and checkout functionalities. It is publicly available for all users.
