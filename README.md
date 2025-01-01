@@ -8,18 +8,16 @@ This project represents the frontend for an electronics store app built using Fl
 2. **Login and Registration**: Allows users to create an account or sign in.
 3. **Product Screen**: Displays a list of electronics with detailed information.
 4. **Cart Screen**: Enables users to view and manage selected products.
-5. **Checkout Screen**: Guides users through the purchase process.
+5. **Checkout Screen**: Guides users through the purchase process (like: pyment method,personal details,etc..).
 
 ## Screenshots
 Below are the key screens from the app:
+![image](https://github.com/user-attachments/assets/32f90c34-4e1f-4688-b0be-b4095039f55d)
 ![image](https://github.com/user-attachments/assets/edacce8c-1db2-44ed-9b85-9e515c6fc817)
-![image](https://github.com/user-attachments/assets/cd0c8400-ada6-4f34-ba86-905f5295a826)
+![image](https://github.com/user-attachments/assets/798f0d48-3341-4c01-9f64-b69a4b698413)
 
 
 
-
-## Video Demonstration
-A complete video walkthrough of the app is available [here](video/demo.mp4).
 
 ## How to Run the Project
 1. Clone this repository to your local machine.
@@ -30,9 +28,10 @@ A complete video walkthrough of the app is available [here](video/demo.mp4).
 
 ## Tags
 - **Team Members**:
-  - [recker-13](https://github.com/recker-13)
-  - [davidg2q](https://github.com/davidg2q)
-  - [mostafaa212](https://github.com/mostafaa212)
+  - Yassa mouris [yassaYM7](https://github.com/yassaYM7)
+  - Khaled ashraf [recker-13](https://github.com/recker-13)
+  - David gamil [davidg2q](https://github.com/davidg2q)
+  - Mostafa hassan [mostafaa212](https://github.com/mostafaa212)
 
 ## Contributions
 Contributions to the project are welcomed. To contribute:
